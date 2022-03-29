@@ -1,1 +1,2 @@
-this is fileA - new version
+this is fileA - new version 
+testing credential manager
