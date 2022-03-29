@@ -1,2 +1,3 @@
 this is fileA - new version 
 testing credential manager
+check if creds are saved
